@@ -138,19 +138,19 @@ header a:hover{
 }
 
 /*sidebar*/
-aside #sidebar{
+aside#sidebar{
   float: right;
-  width: 30px;
+  width: 30%;
   margin-top: 10px;
 }
 
-aside #sidebar .quote input, aside #sidebar .quote textarea{
+aside#sidebar .quote input, aside#sidebar .quote textarea{
   width: 90%;
   padding: 5px;
 }
 
 /* Main-col */
-article #main-col{
+article#main-col{
   float: left;
   width: 65%;
 }
